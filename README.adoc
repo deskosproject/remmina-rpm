@@ -1,0 +1,6 @@
+= DeskOS: remmina RPM
+
+This is the _remmina_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/remmina-1.0.0-8.el7.nux.src.rpm[remmina-1.0.0-8.el7.nux.src.rpm]

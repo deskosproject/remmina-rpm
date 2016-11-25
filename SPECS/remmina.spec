@@ -2,7 +2,7 @@
 
 Name:           remmina
 Version:        1.0.0
-Release:        8%{?dist}
+Release:        9%{?dist}
 Summary:        Remote Desktop Client
 
 Group:          Applications/Internet
@@ -411,6 +411,9 @@ gtk-update-icon-cache %{_datadir}/icons/hicolor &>/dev/null || :
 
 
 %changelog
+* Thu Nov 24 2016 Ricardo Arguello <rarguello@deskosproject.org> - 1.0.0-9
+- Rebuilt for DeskOS
+
 * Sun Aug 04 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.0.0-8
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_20_Mass_Rebuild
 
